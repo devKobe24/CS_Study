@@ -5,5 +5,5 @@
 
 ---
 
-- [Kobe 의 스터디 리스트 🏀](https://github.com/devKobe24/CS_Study/tree/Kobe)
+- [Kobe 의 브랜치 🏀](https://github.com/devKobe24/CS_Study/tree/Kobe)
 - []
