@@ -21,6 +21,6 @@
 - 일주일에 섹션 2개씩 강의 시청 및 정리
 
 ---
-
+- [WIKI 📓](https://github.com/devKobe24/CS_Study/wiki/Wiki-List)
 - [Kobe 의 브랜치 🏀](https://github.com/devKobe24/CS_Study/tree/Kobe)
 - [KyungMin 의 브랜치 😆](https://github.com/devKobe24/CS_Study/tree/KyungMin)
