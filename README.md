@@ -15,4 +15,4 @@
 - [2-1 0과 1로 숫자를 표현하는 방법](https://github.com/devKobe24/CS_Study/blob/Kobe/CS_Study/2-1.md)
 - [2-2 0과 1로 문자를 표현하는 방법](https://github.com/devKobe24/CS_Study/blob/Kobe/CS_Study/2-2.md)
 #### 섹션 3 (명령어)
-- [소스 코드와 명령어](https://github.com/devKobe24/CS_Study/blob/Kobe/CS_Study/3-1.md)
+- [3-1 소스 코드와 명령어](https://github.com/devKobe24/CS_Study/blob/Kobe/CS_Study/3-1.md)
