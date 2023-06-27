@@ -17,3 +17,4 @@
 #### 섹션 3 (명령어)
 - [3-1 소스 코드와 명령어](https://github.com/devKobe24/CS_Study/blob/Kobe/CS_Study/3-1.md)
 - [3-2 명령어의 구조](https://github.com/devKobe24/CS_Study/blob/Kobe/CS_Study/3-2.md)
+- [3-3 소스 코드가 명령어가 되기까지](https://github.com/devKobe24/CS_Study/blob/Kobe/CS_Study/3-3.md)
